@@ -5,7 +5,7 @@
 1. https://github.com/Zizitopiette/iesa2016-a3-mobile (Mathilde BONHOMME)
 1. https://github.com/fabulouse/iesa2016-a3-mobile (Fabien Birba)
 1. https://github.com/ld-chok/iesa2016-a3-mobile/ (gouin thibault)
-1. https://github.com/ld-chok/iesa2016-a3-mobile (Ludovic DEWET)
+1. https://github.com/ld-chok/iesa2016-a3-mobile (Ludovic DEWET) x2
 1. https://github.com/Yohanito/iesa2016_a3_mobile (Yohan LEAO)
 1. https://github.com/paulkarampournis/iesa2016-a3-mobile (Paul Karampournis)
 1. https://github.com/skiland/iesa2016-a3-mobile (Nicolas Heine)
@@ -21,3 +21,4 @@
 1. https://github.com/tom-pouce-dev/iesa2016-a3-mobile (Thomas Werkmeister)
 1. https://github.com/LeaklessGfy/iesa-2016-a3-mobile (vincent rasquier)
 1. https://github.com/DavidMaarek/iesa2016-a3-mobile (David Maarek)
+1. https://github.com/VilainPtiZombie/Iesa2016-a3-mobile (Boutet Maximilien)
