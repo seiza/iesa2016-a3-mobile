@@ -1,4 +1,5 @@
 # iesa2016-a3-mobile
+<<<<<<< HEAD
 
 1. https://github.com/daniel-dahan/iesa2016-a3-mobile (daniel dahan)
 1. https://github.com/Mateus17/iesa2016-a3-mobile (Mathieu Rodrigues)
@@ -11,3 +12,6 @@
 1. https://github.com/skiland/iesa2016-a3-mobile (Nicolas Heine)
 1. https://github.com/flabubulles/iesa-2016-a3-mobile/ (Morgane DELORME)
 1. https://github.com/spearo987/iesa-2016-a3-mobile/ (Mike SHAN)
+=======
+# https://github.com/JuanMustang/iesa2016-a3-mobile (Jnicolas Correa)
+>>>>>>> 483d7b7b0b88e0c6272428f18a724ec23d98c0e6
